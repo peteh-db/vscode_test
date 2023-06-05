@@ -1,4 +1,3 @@
-msg = 'Hello World of Git'
-print(msg)
 
-#this is a test
+
+spark.read.table("sample.nyctaxi.trips")
